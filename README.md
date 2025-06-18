@@ -22,3 +22,11 @@ This extension uses permissions like tabs to access browser tabs, and storage fo
 In future improvements, this extension can be enhanced to classify websites into productive and unproductive categories. Websites like coding platforms or educational resources can be labeled productive, while social media sites can be considered unproductive. The extension can also be connected to a backend server to store user data and generate a dashboard displaying detailed productivity analytics, including a weekly report on time usage patterns.
 
 Overall, this task gave me practical experience working with Chrome extensions, JavaScript, and browser APIs. It helped me understand how to develop simple but useful productivity tools for web browsers.
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/5e6e8935-1a20-40d2-9b7b-ace6c1c2ea1d)
+
+![Image](https://github.com/user-attachments/assets/398d2ba5-1c8d-42e8-b81c-98fc3ea1f770)
+
+![Image](https://github.com/user-attachments/assets/489ecedb-d935-4cf2-9f2c-a2d6057f4e09)
